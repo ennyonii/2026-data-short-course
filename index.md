@@ -64,7 +64,7 @@ We appreciate these partnerships and look forward to working with you all!
 
 
 > ### 🎥 **Week 1 Recordings:**
-> * [Monday Lecture; July 13]()
+> * [Monday Lecture; July 13](https://cuboulder.zoom.us/rec/share/LOsHy5C7Zyt41pZC7jTIutmGMQk6BUAIPcO_3OBCZoXlSjXPOjlWSIFdcJayvEI.BUKs6MbtuSy5kl18)
 > * [Wednesday Lecture; July 15]()
 > * [Thursday Office Hours; July 16]()
 
