@@ -152,7 +152,7 @@ can be added to the course repo.
 | Nate Quarderer (instructor)   | ESIIL; Earth Lab      | nquarder        | [https://nquarder.github.io/](https://nquarder.github.io/) |
 | Lilly Jones (instructor)      | ESIIL; Earth Lab      | lijo8146        | [https://lijo8146.github.io/](https://lijo8146.github.io/) |
 | C. Jason Tinant (participant) | Oglala Lakota College | cjtinant        | [https://cjtinant.github.io/](https://cjtinant.github.io/) |
-| Lilly Jones (instructor) | ESIIL; Earth Lab        | lijo8146  | [https://lijo8146.github.io/](https://lijo8146.github.io/) |
+| Basama Al-Kindi (Researcher) | University of Nizwa | Basmalkindi | [https://basmalkindi.github.io/](https://basmalkindi.github.io/) |
 | Aniruddha Mararthe (Student) | Independent Researcher | aniruddhamarathe | [https://aniruddhamarathe.github.io/](https://aniruddhamarathe.github.io/) |
 | Brian Erickson | Oregon State University | ericksbr | [https://ericksbr.github.io](https://ericksbr.github.io) |
 | Lucas Mansfield (student) | Michigan State University | lmansf44 | [https://lmansf44.github.io/](https://lmansf44.github.io/) |
@@ -160,6 +160,8 @@ can be added to the course repo.
 | Oladipupo Ademola Ibrahim (attendee) | University of Porto | Geophillic  | [https://github.com/Geophillic/geophillic.github.io](https://github.com/Geophillic/geophillic.github.io) |
 | Gaurav Chakrabarty (Participent)|Student| gauravchakrabarty | [https://gauravchakrabarty.github.io/](https://gauravchakrabarty.github.io/)|
 | Nayani Ilangakoon (student) | Earth Lab | Chathu84 | [https://chathu84.github.io/nayani-I.github.io/](https://chathu84.github.io/nayani-I.github.io/) |
+| Theresa N. Monari | Student | Iamnyatichi | [https://iamnyatichi.github.io/](https://iamnyatichi.github.io/) |
 | Sonita Singh (Researcher/Start-Up) | I-STARRT; Deep South Center for Enivornmental Justice  | OmshantiOm  | [https://github.com/Omshanti0m](https://github.com/Omshanti0m) |
 | Amelie Davis (Participant)      | U.S. Air Force Academy | AmsPurdue |  [https://amspurdue.github.io/](https://amspurdue.github.io/)    |   
-| Vaasuki Marupaka (Participant) | University of Florida | vaasukimarupaka | [https://vaasukimarupaka.github.io](https://vaasukimarupaka.github.io) |
+| Vaasuki Marupaka (Participant) | University of Florida | vaasukimarupaka | [https://vaasukimarupaka.github.io](https://vaasukimarupaka.github.io) | 
+| Manoj Pantha (Participant)      | Department of Water Resources and Irrigation, Nepal | manojpantha  |  [https://manojpantha.github.io/](https://manojpantha.github.io/)    |
